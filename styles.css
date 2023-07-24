@@ -1,4 +1,10 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
 h1{
     text-align: center;
     background-color: rgb(153, 207, 255);
+}
+.rec_list{
+    background-color: beige;
 }
