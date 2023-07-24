@@ -2,9 +2,17 @@ body{
     font-family: 'Courier New', Courier, monospace;
 }
 h1{
+    color: white;
+    font-size: 40px;
     text-align: center;
     background-color: rgb(153, 207, 255);
 }
 .rec_list{
-    background-color: beige;
+    font-size: 28px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(205, 249, 252);
+}
+#odin{
+    height: 600px;
+    width: auto;
 }
